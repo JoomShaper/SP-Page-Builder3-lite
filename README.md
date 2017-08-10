@@ -1,11 +1,5 @@
 #[Download Page Builder 2 from Here](https://www.joomshaper.com/page-builder)#
 
-######SP PAGE BUILDER Version 1 is Deprecated. We are recommended to use SP Page Builder 2 ######
--
--
--
--
-###SP PAGE BUILDER Version 1 is Depricated.###
 ####VISUAL PAGE COMPOSER FOR JOOMLA 3.3+###
 
 [![Join the chat at https://gitter.im/JoomShaper/SP-Page-Builder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JoomShaper/SP-Page-Builder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
