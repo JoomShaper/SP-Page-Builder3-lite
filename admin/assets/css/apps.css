@@ -1,0 +1,75 @@
+
+
+
+.sp-pagebuilder-section{
+    margin-bottom: 40px;
+}
+
+
+.row-bar{
+    margin-bottom: 5px;
+}
+
+.column-wrap{
+    background: #d6d4d4;
+}
+
+.column-wrap p{
+    margin-bottom: 4px;
+}
+
+.column-wrap>p{
+    padding-left: 5px;
+}
+
+.sp-addons-list{
+    min-height: 40px;
+    background: #fff;
+    padding: 5px 8px;
+    margin-bottom: 15px;
+}
+
+.sp-addon{
+    background: #f5f5f5;
+    padding: 3px 7px;
+    margin-bottom: 5px;
+}
+
+.sp-addon:last-child{
+    margin-bottom: 0;
+}
+
+.sp-anim-enter {
+    opacity: 0;
+    animation-duration: .5s;
+    animation-fill-mode: both;
+    animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+    animation-play-state: paused;
+}
+
+.sp-anim-appear {
+    opacity: 0;
+    animation-duration: .5s;
+    animation-fill-mode: both;
+    animation-timing-function: cubic-bezier(0.55, 0, 0.55, 0.2);
+    animation-play-state: paused;
+}
+
+.sp-anim-enter.sp-anim-enter-active {
+    animation-name: fadeIn;
+    animation-play-state: running;
+}
+
+.sp-anim-appear.sp-anim-appear-active {
+    animation-name: fadeIn;
+    animation-play-state: running;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
